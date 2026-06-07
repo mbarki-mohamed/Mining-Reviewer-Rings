@@ -1,10 +1,10 @@
-# Large output files
-*.csv
-*.parquet
+# Large output CSV files (exclude from git)
+campaign_risk_scores.csv
+cluster_assignments.csv
+near_duplicate_pairs.csv
 
-# Cache directories
-cache/
-Appliances/
+# Large parquet files
+processed_*.parquet
 
 # Temporary files
 tmpclaude-*
