@@ -8,7 +8,7 @@ cluster_assignments.csv
 near_duplicate_pairs.csv
 
 # Large parquet files
-processed_*.parquet
+# (processed_*.parquet files are small, allowed)
 
 # Temporary files
 tmpclaude-*
