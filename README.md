@@ -6,7 +6,9 @@
 
 A five-stage unsupervised fraud detection pipeline that identifies coordinated fake review campaigns in the Amazon Appliances dataset using classical data mining techniques.
 
-
+- In order to replicate the analysis from scratch, Dataset consists of 2 large json files, they should be put in the Appliances/ folder and can be downloaded here: https://www.transfernow.net/dl/20260607pzGhIYrA (I cannot push them to Github because they're large)
+- To avoid running everything from scratch and speed up the analysis (especially the eda notebook ), the cache files should be put under cache/ folder and can be downloaded from here: https://www.transfernow.net/dl/20260607n0BjYuqy
+- 
 
 ## Repository Structure
 
