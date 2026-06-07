@@ -1,3 +1,7 @@
+# Large data folders (too big for GitHub)
+Appliances/
+cache/
+
 # Large output CSV files (exclude from git)
 campaign_risk_scores.csv
 cluster_assignments.csv
